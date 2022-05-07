@@ -1,5 +1,9 @@
+<p align="center">
+  <img alt="bankline-app" src="github/preview.png" width="100%">
+</p>
+
 ## 💻 Projeto
-Esta aplicação é fruto de um programa de ensino da Digital Innovation One junto ao Santander. Neste projeto, foi abstraido o domínio bancário em uma API REST com Java (Back-end). A Banckline-api provome movimentações financeira simples como cadastor de coreentistase realizações de movimentações no saldo de uma conta. Além disso, arquitetura utilizada foi a do Spring Framework + Springboot, estruturada no padrão MVC.
+Esta aplicação é fruto de um programa de ensino da Digital Innovation One junto ao Santander. Bankline-app é uma SPA que se comunica, via requisições https, baseadas na arquitetura REST, com uma API (Bankline-api, disponível neste mesmo repositório git). Através do consumo desta api, a aplicação permite que o usuário realizae operações bancárias básicas como: criar correntistas, pesquisar correntitas, realizar movimentações nas contas e pesquisar tais movimentações.
 
 ## 🚀 Tecnologias
 
